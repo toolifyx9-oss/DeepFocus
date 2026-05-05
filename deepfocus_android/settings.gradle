@@ -1,0 +1,2 @@
+rootProject.name = "DeepFocus"
+include ':app'

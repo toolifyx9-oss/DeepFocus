@@ -1,0 +1,5 @@
+{
+  "name": "Remix: DeepFocus – Stay Locked, Stay Productive",
+  "description": "A fully functional offline-only Android application for distraction-free focus. Features local app blocking, usage tracking, and a premium minimal UI with no data collection or online requirements.",
+  "requestFramePermissions": []
+}

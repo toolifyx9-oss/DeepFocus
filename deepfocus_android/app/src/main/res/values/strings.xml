@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeepFocus</string>
+    <string name="accessibility_service_description">DeepFocus uses this service to detect when you open distracting apps during your focus sessions and helps you stay locked in.</string>
+</resources>
